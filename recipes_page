@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="utf-8">
+    <title>Dana's cookbook </title>
+   
+
+
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-WFL3HQQJ');</script>
+  <!-- End Google Tag Manager -->
+   
+  </head>
+
+  <body>
+
+    <div class="header">
+      <h1>Dana's cookbook</h1>
+      <p id="s">On this website you will find recipes from different cuisines</p>
+      <a href="index.html" ; id="recipes_button ; class="inline"  >
+        <button>Recipes</button>
+      </a> 
+      <a href="reviews.html" ; id="reviews_button ; class="inline"  >
+        <button>Reviews</button>
+      </a> 
+      <a href="contact.html" ; id="contact_button ; class="inline"   >
+        <button>contact us</button>
+      </a>
+    </div>
+  
+   
+   
+
+   
+    <h2>How to make hummus </h2>
+    <img src="hummus.jpg" alt="homemade hummus" width="400" height="400" class="center">
+
+
+    <p >With a few simple tricks, you really can make creamy smooth homemade hummus and yes, we really do think it’s better than store-bought.</p>
+    <h3 >INGREDIENTS</h3>
+    <ul class="paragraph">
+      <li>1 can (15 ounces) chickpeas, rinsed and drained, or 1 ½ cups cooked chickpeas</li>
+      <li>½ teaspoon baking soda (if you’re using canned chickpeas)</li>
+      <li>¼ cup lemon juice (from 1 ½ to 2 lemons), more to taste</li>
+      <li>1 medium-to-large clove garlic, roughly chopped</li>
+      <li>½ teaspoon fine sea salt, to taste</li>
+      <li>½ cup tahini</li>
+      <li>2 to 4 tablespoons ice water, more as needed</li>
+      <li>½ teaspoon ground cumin</li>
+      <li>1 tablespoon extra-virgin olive oil</li>
+      <li>Any of the following garnishes:  drizzle of olive oil or zhoug sauce, sprinkle of ground sumac or paprika, chopped fresh parsley</li>
+    
+    </ul>
+
+    
+<h4>INSTRUCTIONS</h4>
+    <p class="paragraph">
+
+      Place the chickpeas in a medium saucepan and add the baking soda. 
+      Cover the chickpeas by several inches of water, <br>then bring the mixture to a boil over high heat. <br>Continue boiling, reducing heat if necessary to prevent overflow,<br> for about 20 minutes, or until the chickpeas look bloated, <br>their skins are falling off, and they’re quite soft.<br> In a fine-mesh strainer, drain the chickpeas and run cool water over them for about 30 seconds.<br> Set aside (no need to peel the chickpeas for this recipe!).
+      Meanwhile, in a food processor or high-powered blender, <br>combine the lemon juice, garlic and salt. <br>Process until the garlic is very finely chopped,<br> then let the mixture rest so the garlic flavor can mellow, ideally 10 minutes or longer.<br>
+      Add the tahini to the food processor and blend until the mixture is thick and creamy,<br> stopping to scrape down any tahini stuck to the sides and bottom of the<br> processor as necessary.
+      While running the food processor, drizzle in 2 tablespoons ice water.<br> Scrape down the food processor, and blend until the mixture is ultra smooth, <br>pale and creamy. (If your tahini was extra-thick to begin with,<br> you might need to add 1 to 2 tablespoons more ice water.)<br>
+      
+      Add the cumin and the drained, over-cooked chickpeas to the food processor.<br> While blending, drizzle in the olive oil. Blend until the mixture is super smooth,<br> scraping down the sides of the processor as necessary, about 2 minutes. <br>Add more ice water by the tablespoon if necessary to achieve a super creamy texture.<br>
+      Taste, and adjust as necessary—I almost always add another ¼ teaspoon salt for more overall<br> flavor and another tablespoon of lemon juice for extra zing.<br>
+      Scrape the hummus into a serving bowl or platter, and use a spoon to create nice swooshes on top.<br> Top with garnishes of your choice, and serve. Leftover hummus keeps<br> well in the refrigerator, covered, for up to 1 week. </p>
+  
+       
+      <h6>Choose your favorite recipe:</h6>
+
+      <form>
+        <input type="radio" id="hummus" name="fav_recipe" value="hummus">
+        <label for="hummus">hummus</label><br>
+        <input type="radio" id="cuacamole" name="fav_recipe" value="cuacamole">
+        <label for="cuacamole">cuacamole</label><br>
+        <input type="radio" id="cuacamole" name="fav_recipe" value="cuacamole">
+        <label for="cuacamole">cuacamole</label>
+      </form>
+
+          <h5>Did you make this recipe?    Please let me know how it turned out for you! Leave a comment below and share a picture on Instagram with the hashtag #Dana'scookbook.</p>
+          </h5>
+            <a href="https://www.instagram.com/" ; id="Instagram ; class="inline"  >
+              <p id="instagram">Instagram</p>
+            </a> 
+       
+
+
+   <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WFL3HQQJ"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+    </body>
+</html>
